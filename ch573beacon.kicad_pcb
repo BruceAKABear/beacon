@@ -396,7 +396,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f15197ae-80e7-4d77-a934-72e63569aa4d)
     )
-    (fp_text value "4.7uf" (at 0 1.16 90) (layer "F.Fab")
+    (fp_text value "0.1uf" (at 0 1.16 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 879d046c-95fb-4f3b-ab4e-05a2faa48823)
     )
@@ -602,11 +602,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiWyIsICJDYXBSaWdodENob2ljZSI6ICJdIiwgIkZvbnRDb21ib0JveCI6ICJGcmVkb2thT25lIiwgIkhlaWdodEN0cmwiOiAiMC41IiwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJNdWx0aUxpbmVUZXh0IjogIkMgICAgIEQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-64141A9C" (at 0 -3.511021 135) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp d150cae5-f07c-480c-8e48-98a5ecf09699)
     )
     (fp_text value "G***" (at 0 3.511021 135) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp 5927df60-93e4-4532-aed0-5e3563faa1b8)
     )
     (fp_poly (pts
@@ -1000,11 +1000,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiWyIsICJDYXBSaWdodENob2ljZSI6ICJdIiwgIkZvbnRDb21ib0JveCI6ICJGcmVkb2thT25lIiwgIkhlaWdodEN0cmwiOiAiMC41IiwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJNdWx0aUxpbmVUZXh0IjogIkJPT1QiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiMSJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-64142EB1" (at 0 -3.512608) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp 66ebf5fc-cb8c-48e8-8607-de2307f647d2)
     )
     (fp_text value "G***" (at 0 3.512608) (layer "F.SilkS") hide
-      (effects (font (size 0 0)))
+      (effects (font (size 0 0) (thickness 0.15)))
       (tstamp 5b9eae76-7670-42a2-aca8-bc060f7ca04f)
     )
     (fp_poly (pts
@@ -1585,7 +1585,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4c897d61-d100-4f26-b532-3e4b44a3e5d8)
     )
-    (fp_text value "4.7uf" (at 0 1.16 90) (layer "F.Fab")
+    (fp_text value "0.1uf" (at 0 1.16 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2066111b-d0e2-4f48-9d2a-e034ca17d926)
     )
